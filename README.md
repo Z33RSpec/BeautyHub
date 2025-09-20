@@ -23,9 +23,9 @@ Discover the latest beauty trends, top-quality products, and exclusive deals dir
 ---
 
 ## 🌐 Connect with Us
-- **GitHub:** [https://github.com/abolfazl-shadrouh]([https://github.com/yourusername](https://github.com/abolfazl-shadrouh)) 💻  
+- **GitHub:** [https://github.com/abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) 💻  
 - **Website:** [http://www.shadrouh.ir](http://shadrouh.ir) 🌐  
-- **Instagram:** [https://instagram.com/yourbeautyhub](https://instagram.com/abolfazl-shadrouh) 📸  
+- **Instagram:** [https://instagram.com/abolfazl-shadrouh](https://instagram.com/abolfazl-shadrouh) 📸  
 - **TechHub:** [https://techhub/shadrouh](https://techhub.social/@shadrouh) 📲  
 
 ---

